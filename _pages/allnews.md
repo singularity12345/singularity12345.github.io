@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: gridlay
-excerpt: "Varun Jampani"
+excerpt: "Haoyi Fan"
 sitemap: false
 permalink: /allnews.html
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Varun Jampani - Codes"
+title: "Haoyi Fan - Codes"
 layout: gridlay
-excerpt: "Varun Jampani: Codes"
+excerpt: "Haoyi Fan: Codes"
 sitemap: false
 permalink: /codes
 ---
