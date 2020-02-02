@@ -12,7 +12,7 @@ permalink: /
 
 <div class="col-sm-8">
 
-I am a Ph.D student in Computer Science at [HRBUST](http://www.hrbust.edu.cn/) in Harbin, China, under the supervision of Prof. Fengbin Zhang, Zuoyong Li, and [Yue Gao](http://www.gaoyue.org/cn/people/gaoyue_index.html). I finished my B.S. degree in Mathematics at [ZUA](http://zua.edu.cn/) in 2015.
+I am a Ph.D student in Computer Science at [HRBUST](http://www.hrbust.edu.cn/) in Harbin, China, under the supervision of Prof. Fengbin Zhang, Zuoyong Li, and [Yue Gao](http://www.gaoyue.org/cn/people/gaoyue_index.html). I finished my B.S. degree in Mathematics at ZUA in 2015.
 
 <!--
 My work lies at the intersection of Computer Vision and Machine Learning. Specifically, I am working on leveraging machine learning techniques for better inference in computer vision models. The main research question is how to make use of learning techniques such as deep neural networks and random forests for inference in structured prediction frameworks.
@@ -39,10 +39,12 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
 
   <!-- <br clear="all" /> -->
 
-  <A HREF="mailto:&#118;&#097;&#114;&#117;&#110;&#106;&#097;&#109;&#112;&#097;&#110;&#105;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#118;&#097;&#114;&#117;&#110;&#106;&#097;&#109;&#112;&#097;&#110;&#105;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</A> <br>
-  Google Research <br>
-  355 Main Street<br>
-  Cambridge, MA, USA.<br>
+  <A HREF="mailto:&#105;&#115;&#102;&#97;&#110;&#104;&#121;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
+  &#105;&#115;&#102;&#97;&#110;&#104;&#121;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
+  </A> <br>
+  HRBUST <br>
+  No.52, Xuefu Road<br>
+  Harbin, China.<br>
 
 
 </div>
