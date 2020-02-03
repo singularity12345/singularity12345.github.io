@@ -1,7 +1,7 @@
 ---
-title: "Varun Jampani - Publications"
+title: "Haoyi Fan - Publications"
 layout: gridlay
-excerpt: "Varun Jampani -- Publications."
+excerpt: "Haoyi Fan -- Publications."
 sitemap: false
 permalink: /publications/
 ---
