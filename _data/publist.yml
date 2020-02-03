@@ -21,7 +21,7 @@
     url: 
     display: code (github)
 
-- title: AnomalyDAE: Dual autoencoder for anomaly detection on attributed networks
+- title: AnomalyDAE#58; Dual autoencoder for anomaly detection on attributed networks
   image: AnomalyDAE_teaser.png
   description: 
   authors: H. Fan, F. Zhang, Z. Li
@@ -56,7 +56,7 @@
     url: https://github.com/fpklipic/DRHNet
     display: code
 
-- title: Tonguenet: Accurate Localization and Segmentation for Tongue Images Using Deep Neural Networks
+- title: Tonguenet#58; Accurate Localization and Segmentation for Tongue Images Using Deep Neural Networks
   image: Tonguenet_teaser.png
   description: 
   authors: C. Zhou, H. Fan, Z. Li
@@ -67,7 +67,7 @@
     display: Paper
 
 
-- title:  LeukocyteMask: An automated localization and segmentation method for leukocyte in blood smear images using deep neural networks
+- title:  LeukocyteMask#58; An automated localization and segmentation method for leukocyte in blood smear images using deep neural networks
   image: LeukocyteMask_teaser.png
   description: 
   authors: H. Fan, F. Zhang, L. Xi, Z. Li, G. Liu, Y. Xu
