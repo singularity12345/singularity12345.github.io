@@ -19,7 +19,7 @@
     display: project page
   link5:
     url: 
-    display: code (github)
+    display: code (comming soon...)
 
 - title: AnomalyDAE&#58; Dual autoencoder for anomaly detection on attributed networks
   image: AnomalyDAE_teaser.jpg
@@ -41,7 +41,7 @@
     display: project page
   link5:
     url: 
-    display: code (github)
+    display: code (comming soon...)
 
 - title: Deep Residual Haze Network for Image Dehazing and Deraining
   image: DRHNet_teaser.jpg
