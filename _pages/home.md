@@ -16,12 +16,12 @@ I am a Ph.D student in Computer Science at [HRBUST](http://www.hrbust.edu.cn/) i
 
 <h4>Research Interests </h4>
 
-<h6> Data mining and machine learning </h6>
+<h5> Data mining and machine learning </h5>
 <ul>
 <li>Anomaly Detection.</li>
-<li>Graph/Hypergraph Embedding.</li>
+<li>Graph Embedding.</li>
 </ul>
-<h6> Computer Vision </h6>
+<h5> Computer Vision </h5>
 <ul>
 <li>Medical Image Segmentation.</li>
 </ul>
