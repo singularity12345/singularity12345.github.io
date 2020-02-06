@@ -14,17 +14,17 @@ permalink: /
 
 I am a Ph.D student in Computer Science at [HRBUST](http://www.hrbust.edu.cn/) in Harbin, China, under the supervision of Prof. Fengbin Zhang, Zuoyong Li, and [Yue Gao](http://www.gaoyue.org/cn/people/gaoyue_index.html). I finished my B.S. degree in Mathematics at ZUA in 2015.
 
-Research Interests
-Data mining and machine learning
-<ul>
-<li>Anomaly Detection.<\li>
-<li>Graph/Hypergraph Embedding.<\li>
-<\ul>
-Computer Vision
-<ul>
-<li>Medical Image Segmentation.<\li>
-<\ul>
+<h4>Research Interests </h4>
 
+<h6> Data mining and machine learning </h6>
+<ul>
+<li>Anomaly Detection.</li>
+<li>Graph/Hypergraph Embedding.</li>
+</ul>
+<h6> Computer Vision </h6>
+<ul>
+<li>Medical Image Segmentation.</li>
+</ul>
 
 <!--
 My work lies at the intersection of Computer Vision and Machine Learning. Specifically, I am working on leveraging machine learning techniques for better inference in computer vision models. The main research question is how to make use of learning techniques such as deep neural networks and random forests for inference in structured prediction frameworks.
@@ -33,7 +33,6 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
 <!--
 **_If you are interested in research collaboration, please drop me an email with your CV._**
 -->
-
 
 ### News
 {% for article in site.data.news limit:9 %}
@@ -75,7 +74,7 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
  <div class="well">
  <pubtit>{{ publi.title }}</pubtit>
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" height="20" style="float: left" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="120px" style="float: left" />
 
  <p>{{ publi.description }}</p>
 
@@ -144,7 +143,7 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
  <div class="well">
  <pubtit>{{ publi.title }}</pubtit>
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" height="20px" style="float: left" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="120px" style="float: left" />
 
  <p>{{ publi.description }}</p>
 
