@@ -14,6 +14,18 @@ permalink: /
 
 I am a Ph.D student in Computer Science at [HRBUST](http://www.hrbust.edu.cn/) in Harbin, China, under the supervision of Prof. Fengbin Zhang, Zuoyong Li, and [Yue Gao](http://www.gaoyue.org/cn/people/gaoyue_index.html). I finished my B.S. degree in Mathematics at ZUA in 2015.
 
+Research Interests
+Data mining and machine learning
+<ul>
+<li>Anomaly Detection.<\li>
+<li>Graph/Hypergraph Embedding.<\li>
+<\ul>
+Computer Vision
+<ul>
+<li>Medical Image Segmentation.<\li>
+<\ul>
+
+
 <!--
 My work lies at the intersection of Computer Vision and Machine Learning. Specifically, I am working on leveraging machine learning techniques for better inference in computer vision models. The main research question is how to make use of learning techniques such as deep neural networks and random forests for inference in structured prediction frameworks.
 -->
@@ -21,6 +33,7 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
 <!--
 **_If you are interested in research collaboration, please drop me an email with your CV._**
 -->
+
 
 ### News
 {% for article in site.data.news limit:9 %}
