@@ -12,7 +12,7 @@ permalink: /
 
 <div class="col-sm-8">
 
-I am a Ph.D student in Computer Science at [HRBUST](http://www.hrbust.edu.cn/) in Harbin, China, under the supervision of Prof. Fengbin Zhang. Moreover, I am also co-supervised by Prof. [Yue Gao](http://www.gaoyue.org/cn/people/gaoyue_index.html) and Prof. Zuoyong Li for scientifict research.
+I am a Ph.D student in Computer Science at [HRBUST](http://www.hrbust.edu.cn/) in Harbin, China, under the supervision of Prof. Fengbin Zhang. Moreover, I am also co-supervised by Prof. [Yue Gao](http://www.gaoyue.org/cn/people/gaoyue_index.html) and Prof. Zuoyong Li for scientific research.
 
 <h4>Research Interests </h4>
 
