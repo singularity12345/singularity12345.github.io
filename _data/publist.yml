@@ -31,14 +31,14 @@
     url: https://haoyfan.github.io/papers/AnomalyDAE_ICASSP2020.pdf 
     display: pdf
   link2:
-    url: 
-    display: poster
+    url: https://arxiv.org/abs/2002.03665 
+    display: arxiv
   link3:
     url: 
-    display: video
+    display: poster
   link4:
     url: 
-    display: project page
+    display: video
   link5:
     url: https://github.com/haoyfan/AnomalyDAE
     display: code
