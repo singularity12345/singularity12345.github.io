@@ -3,10 +3,10 @@
   image: CADGMM_teaser.jpg
   description: 
   authors: H. Fan, F. Zhang, R. Wang, L. Xi, Z. Li
-  venue: THE 24TH PACIFIC-ASIA CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, PAKDD'20, (acceptance rate&#58; 21%)
+  venue: The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD'20, (acceptance rate&#58; 21%)
   number_link: 5
   link1:
-    url:  
+    url: https://haoyfan.github.io/papers/CADGMM_PAKDD2020.pdf 
     display: pdf
   link2:
     url: 
