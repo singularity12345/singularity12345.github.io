@@ -34,10 +34,10 @@
     url: https://arxiv.org/abs/2002.03665 
     display: arxiv
   link3:
-    url: 
-    display: poster
+    url: https://github.com/haoyfan/AnomalyDAE/tree/master/Presentation/icassp20-AnomalyDAE-slides.pdf
+    display: slide
   link4:
-    url: 
+    url: https://github.com/haoyfan/AnomalyDAE/tree/master/Presentation/video/zoom_0.mp4	
     display: video
   link5:
     url: https://github.com/haoyfan/AnomalyDAE
