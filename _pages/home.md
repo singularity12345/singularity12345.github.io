@@ -23,7 +23,7 @@ I am a Ph.D student in Computer Science at [HRBUST](http://www.hrbust.edu.cn/) i
 </ul>
 <h5> Computer Vision </h5>
 <ul>
-<li>Medical Image Segmentation.</li>
+<li>Medical Image Processing.</li>
 </ul>
 
 <!--
