@@ -4,7 +4,7 @@
   description: 
   authors: H. Fan, F. Zhang, R. Wang, L. Xi, Z. Li
   venue: The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD'20, (acceptance rate&#58; 21%)
-  number_link: 3
+  number_link: 5
   link1:
     url: https://haoyfan.github.io/papers/CADGMM_PAKDD2020.pdf 
     display: pdf
@@ -12,6 +12,12 @@
     url: https://arxiv.org/abs/2002.07349
     display: arxiv
   link3:
+    url: https://haoyfan.github.io/slide/pakdd20-CADGMM-slides.pdf
+    display: slide
+  link4:
+    url: https://haoyfan.github.io/video/pakdd20-CADGMM-video.mp4
+    display: video
+  link5:
     url: https://github.com/haoyfan/CADGMM
     display: code
 
