@@ -9,8 +9,8 @@
     url: https://haoyfan.github.io/papers/CADGMM_PAKDD2020.pdf 
     display: pdf
   link2:
-    url: https://arxiv.org/abs/2002.07349
-    display: arxiv
+    url: https://www.springerprofessional.de/en/correlation-aware-deep-generative-model-for-unsupervised-anomaly/17966082
+    display: paper
   link3:
     url: https://haoyfan.github.io/slide/pakdd20-CADGMM-slides.pdf
     display: slide
@@ -31,8 +31,8 @@
     url: https://haoyfan.github.io/papers/AnomalyDAE_ICASSP2020.pdf 
     display: pdf
   link2:
-    url: https://arxiv.org/abs/2002.03665 
-    display: arxiv
+    url: https://ieeexplore.ieee.org/document/9053387 
+    display: paper
   link3:
     url: https://haoyfan.github.io/slide/icassp20-AnomalyDAE-slides.pdf
     display: slide
