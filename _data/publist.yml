@@ -51,7 +51,7 @@
   number_link: 2
   link1:
     url: https://ieeexplore.ieee.org/abstract/document/8957649/
-    display: Paper
+    display: paper
   link2:
     url: https://github.com/fpklipic/DRHNet
     display: code
@@ -64,7 +64,7 @@
   number_link: 1
   link1:
     url: https://ieeexplore.ieee.org/abstract/document/8864990/
-    display: Paper
+    display: paper
 
 
 - title:  LeukocyteMask&#58; An automated localization and segmentation method for leukocyte in blood smear images using deep neural networks
@@ -75,7 +75,7 @@
   number_link: 2
   link1:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.201800488
-    display: Paper
+    display: paper
   link2:
     url: https://github.com/fpklipic/BCISC
     display: dataset
