@@ -1,4 +1,14 @@
 
+- title: Reconstruction enhanced probabilistic model for semisupervised tongue image segmentation
+  image: SemiTongue_teaser.jpg
+  description: 
+  authors: C. Zhou, H. Fan, et al.
+  venue: Concurrency and Computation&#58; Practice and Experience, 2020
+  number_link: 1
+  link1:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5844
+    display: paper
+
 - title: Correlation-aware Deep Generative Model for Unsupervised Anomaly Detection
   image: CADGMM_teaser.jpg
   description: 
