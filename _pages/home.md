@@ -20,6 +20,7 @@ I am a Ph.D student in Computer Science at [HRBUST](http://www.hrbust.edu.cn/) i
 <ul>
 <li>Anomaly Detection.</li>
 <li>Graph Embedding.</li>
+<li>Time Series.</li>
 </ul>
 <h5> Computer Vision </h5>
 <ul>
