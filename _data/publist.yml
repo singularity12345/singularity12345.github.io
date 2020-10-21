@@ -1,4 +1,28 @@
 
+
+- title: Semi-supervised Time Series Classification by Temporal Relation Prediction
+  image: SemiTime_teaser.jpg
+  description: 
+  authors: H. Fan, F. Zhang, Ruidong Wang, Xunhua Huang, Z. Li
+  venue: Under Review
+  number_link: 5
+  link1:
+    url:  
+    display: pdf
+  link2:
+    url: 
+    display: paper
+  link3:
+    url: 
+    display: slide
+  link4:
+    url: 
+    display: video
+  link5:
+    url: https://github.com/haoyfan/SemiTime
+    display: code
+
+
 - title: Reconstruction Enhanced Probabilistic Model for Semi-supervised Tongue Image Segmentation
   image: SemiTongue_teaser.jpg
   description: 
