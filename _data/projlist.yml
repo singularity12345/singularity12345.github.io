@@ -1,0 +1,84 @@
+
+- title: Correlation-aware Deep Generative Model for Unsupervised Anomaly Detection
+  image: CADGMM_teaser.jpg
+  description: 
+  authors: H. Fan, F. Zhang, R. Wang, L. Xi, Z. Li
+  venue: THE 24TH PACIFIC-ASIA CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, PAKDD'20, (acceptance rate&#58; 21%)
+  number_link: 5
+  link1:
+    url: https://haoyfan.github.io/papers/AnomalyDAE_ICASSP2020.pdf 
+    display: pdf
+  link2:
+    url: 
+    display: poster
+  link3:
+    url: 
+    display: video
+  link4:
+    url: 
+    display: project page
+  link5:
+    url: https://github.com/haoyfan/CADGMM
+    display: code
+
+- title: AnomalyDAE&#58; Dual autoencoder for anomaly detection on attributed networks
+  image: AnomalyDAE_teaser.jpg
+  description: 
+  authors: H. Fan, F. Zhang, Z. Li
+  venue: 45th International Conference on Acoustics, Speech, and Signal Processing, ICASSP'20
+  number_link: 5
+  link1:
+    url: 
+    display: pdf
+  link2:
+    url: 
+    display: poster
+  link3:
+    url: 
+    display: video
+  link4:
+    url: 
+    display: project page
+  link5:
+    url: https://github.com/haoyfan/AnomalyDAE
+    display: code
+
+- title: Deep Residual Haze Network for Image Dehazing and Deraining
+  image: DRHNet_teaser.jpg
+  description: 
+  authors: C. Wang, Z. Li, J. Wu, H. Fan, G. Xiao, H. Zhang
+  venue: IEEE Access, 2020
+  number_link: 2
+  link1:
+    url: https://ieeexplore.ieee.org/abstract/document/8957649/
+    display: Paper
+  link2:
+    url: https://github.com/fpklipic/DRHNet
+    display: code
+
+- title: Tonguenet&#58; Accurate Localization and Segmentation for Tongue Images Using Deep Neural Networks
+  image: Tonguenet_teaser.jpg
+  description: 
+  authors: C. Zhou, H. Fan, Z. Li
+  venue: IEEE Access, 2019
+  number_link: 1
+  link1:
+    url: https://ieeexplore.ieee.org/abstract/document/8864990/
+    display: Paper
+
+
+- title:  LeukocyteMask&#58; An automated localization and segmentation method for leukocyte in blood smear images using deep neural networks
+  image: LeukocyteMask_teaser.jpg
+  description: 
+  authors: H. Fan, F. Zhang, L. Xi, Z. Li, G. Liu, Y. Xu
+  venue: Journal of biophotonics, 2019
+  number_link: 2
+  link1:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.201800488
+    display: Paper
+  link2:
+    url: https://github.com/fpklipic/BCISC
+    display: dataset
+
+
+

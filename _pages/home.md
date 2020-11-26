@@ -134,17 +134,17 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
 
 </div>
 
-<div class="col-sm-12">
 
-### Theses
 
-{% for publi in site.data.theseslist limit:6 %}
+### Projects
+
+{% for publi in site.data.projlist limit:100 %}
 
 <div class="col-sm-11 clearfix">
  <div class="well">
  <pubtit>{{ publi.title }}</pubtit>
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="120px" style="float: left" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" class="img-responsive" width="120px" style="float: left" />
 
  <p>{{ publi.description }}</p>
 
@@ -197,6 +197,11 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
 
 {% endfor %}
 
-<p> &nbsp; </p>
+<br clear="all"/>
+
+#### <a href="{{ site.url }}{{ site.baseurl }}/publications">see all projects</a>
 
 </div>
+
+
+

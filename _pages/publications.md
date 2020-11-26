@@ -71,15 +71,15 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-### Theses
+### Projects
 
-{% for publi in site.data.theseslist limit:6 %}
+{% for publi in site.data.projlist limit:6 %}
 
 <div class="col-sm-11 clearfix">
  <div class="well">
  <pubtit>{{ publi.title }}</pubtit>
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="200px" style="float: left" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ publi.image }}" class="img-responsive" width="200px" style="float: left" />
 
  <p>{{ publi.description }}</p>
 
@@ -136,7 +136,7 @@ permalink: /publications/
 
 <!-- ## Full List
 
-{% for publi in site.data.publist %}
+{% for publi in site.data.projlist %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
