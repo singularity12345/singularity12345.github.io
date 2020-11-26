@@ -1,22 +1,2 @@
 
-- title: Correlation-aware Deep Generative Model for Unsupervised Anomaly Detection
-  image: CADGMM_teaser.jpg
-  description: 
-  authors: H. Fan, F. Zhang, R. Wang, L. Xi, Z. Li
-  venue: THE 24TH PACIFIC-ASIA CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, PAKDD'20, (acceptance rate&#58; 21%)
-  number_link: 5
-  link1:
-    url: https://haoyfan.github.io/papers/AnomalyDAE_ICASSP2020.pdf 
-    display: pdf
-  link2:
-    url: 
-    display: poster
-  link3:
-    url: 
-    display: video
-  link4:
-    url: 
-    display: project page
-  link5:
-    url: https://github.com/haoyfan/CADGMM
-    display: code
+
