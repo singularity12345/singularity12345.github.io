@@ -201,7 +201,5 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
 
 #### <a href="{{ site.url }}{{ site.baseurl }}/publications">see all projects</a>
 
-</div>
-
 
 
