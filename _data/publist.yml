@@ -4,10 +4,22 @@
   image: SemiTime_teaser.jpg
   description: 
   authors: Haoyi Fan, Fengbin Zhang, Ruidong Wang, Xunhua Huang, Zuoyong Li
-  venue: Under Review
+  venue: ICASSP 2021 (under review)
   number_link: 1
   link1:
     url: https://github.com/haoyfan/SemiTime
+    display: code
+
+
+
+- title: Self-Supervised Time Series Representation Learning by Inter-Intra Relational Reasoning
+  image: SelfTime_teaser.jpg
+  description: 
+  authors: Haoyi Fan, Fengbin Zhang, Yue Gao
+  venue: ICLR 2021 (under review)
+  number_link: 1
+  link1:
+    url: https://github.com/haoyfan/SelfTime
     display: code
 
 
