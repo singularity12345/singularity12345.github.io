@@ -17,8 +17,11 @@
   description: 
   authors: Haoyi Fan, Fengbin Zhang, Yue Gao
   venue: ICLR 2021 (under review)
-  number_link: 1
+  number_link: 2
   link1:
+    url: https://arxiv.org/abs/2011.13548
+    display: arxiv
+  link2:
     url: https://github.com/haoyfan/SelfTime
     display: code
 
