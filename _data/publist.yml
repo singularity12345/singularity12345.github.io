@@ -1,5 +1,18 @@
 
 
+- title: URNet&#58; A U-Net based residual network for image dehazing
+  image: SemiTime_teaser.jpg
+  description: 
+  authors: TingFeng, ChuanshengWang, Xinwei Chen, Haoyi Fan, Kun Zeng, Zuoyong Li
+  venue: Applied Soft Computing, 2020
+  number_link: 1
+  link1:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S156849462030822X
+    display: paper
+
+
+
+
 - title: Semi-supervised Time Series Classification by Temporal Relation Prediction
   image: SemiTime_teaser.jpg
   description: 
