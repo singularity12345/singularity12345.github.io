@@ -1,6 +1,9 @@
 # encoding: utf-8
+- date: Jan, 2021
+  headline: Paper on "WBC-Net&#58; A white blood cell segmentation network based on UNet++ and ResNet" is accepted for publication in <a href="https://www.journals.elsevier.com/applied-soft-computing"> Applied Soft Computing Journal </a>.
+
 - date: Nov, 2020
-  headline: Paper on "A U-Net Based Residual Network for Image Dehazing" is accepted for publication in <a href="https://www.journals.elsevier.com/applied-soft-computing"> Applied Soft Computing Journal </a>.
+  headline: Paper on "URNet&#58; A U-Net based residual network for image dehazing" is accepted for publication in <a href="https://www.journals.elsevier.com/applied-soft-computing"> Applied Soft Computing Journal </a>.
 
 - date: Oct, 2020
   headline: New work about semi-supervised time series classification is submitted to <a href="https://2021.ieeeicassp.org/"> ICASSP | 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP'21) </a> for review.
