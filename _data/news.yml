@@ -1,20 +1,23 @@
 # encoding: utf-8
-- date: Jan, 2021
+- date: January, 2021
+  headline: Paper on "Semi-supervised Time Series Classification by Temporal Relation Prediction" is accepted for presentation at <a href="https://2021.ieeeicassp.org"> ICASSP'21 </a>.
+
+- date: January, 2021
   headline: Paper on "WBC-Net&#58; A white blood cell segmentation network based on UNet++ and ResNet" is accepted for publication in <a href="https://www.journals.elsevier.com/applied-soft-computing"> Applied Soft Computing Journal </a>.
 
-- date: Nov, 2020
+- date: November, 2020
   headline: Paper on "URNet&#58; A U-Net based residual network for image dehazing" is accepted for publication in <a href="https://www.journals.elsevier.com/applied-soft-computing"> Applied Soft Computing Journal </a>.
 
-- date: Oct, 2020
+- date: October, 2020
   headline: New work about semi-supervised time series classification is submitted to <a href="https://2021.ieeeicassp.org/"> ICASSP | 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP'21) </a> for review.
 
-- date: Oct, 2020
+- date: October, 2020
   headline: New work about self-supervised time series representation learning is submitted to <a href="https://iclr.cc/Conferences/2021"> ICLR | 2021 Ninth International Conference on Learning Representations (ICLR'21) </a> for review.
 
-- date: Sept, 2020
+- date: September, 2020
   headline: Joined as a Program Commitee Member for <a href="https://aaai.org/Conferences/AAAI-21/"> Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21) </a>.
 
-- date: Aug, 2020
+- date: August, 2020
   headline: Paper on "基于样本关联感知的无监督深度异常检测模型" is accepted for publication in <a href="http://cjc.ict.ac.cn/"> 《计算机学报》 </a>.
 
 - date: May, 2020

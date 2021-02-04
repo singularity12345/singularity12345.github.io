@@ -1,6 +1,18 @@
 
 
 
+- title: Semi-supervised Time Series Classification by Temporal Relation Prediction
+  image: SemiTime_teaser.jpg
+  description: 
+  authors: Haoyi Fan, Fengbin Zhang, Ruidong Wang, Xunhua Huang, Zuoyong Li
+  venue: ICASSP 2021
+  number_link: 1
+  link1:
+    url: https://github.com/haoyfan/SemiTime
+    display: code
+
+
+
 - title: WBC-Net&#58; A white blood cell segmentation network based on UNet++ and ResNet
   image: WBCNet_teaser.jpg
   description: 
@@ -24,18 +36,6 @@
     url: https://www.sciencedirect.com/science/article/abs/pii/S156849462030822X
     display: paper
 
-
-
-
-- title: Semi-supervised Time Series Classification by Temporal Relation Prediction
-  image: SemiTime_teaser.jpg
-  description: 
-  authors: Haoyi Fan, Fengbin Zhang, Ruidong Wang, Xunhua Huang, Zuoyong Li
-  venue: ICASSP 2021 (under review)
-  number_link: 1
-  link1:
-    url: https://github.com/haoyfan/SemiTime
-    display: code
 
 
 
