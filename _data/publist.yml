@@ -6,8 +6,11 @@
   description: 
   authors: Haoyi Fan, Fengbin Zhang, Ruidong Wang, Xunhua Huang, Zuoyong Li
   venue: ICASSP 2021
-  number_link: 1
+  number_link: 2
   link1:
+    url: https://haoyfan.github.io/papers/SemiTime_ICASSP2021.pdf 
+    display: pdf
+  link2:
     url: https://github.com/haoyfan/SemiTime
     display: code
 
