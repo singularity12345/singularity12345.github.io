@@ -160,7 +160,7 @@
 - title:  LeukocyteMask&#58; An automated localization and segmentation method for leukocyte in blood smear images using deep neural networks
   image: LeukocyteMask_teaser.jpg
   description: 
-  authors: \t **Haoyi Fan**, Fengbin Zhang, Liang Xi, Zuoyong Li, Guanghai Liu, Yong Xu
+  authors: <dblue>**Haoyi Fan**, Fengbin Zhang, Liang Xi, Zuoyong Li, Guanghai Liu, Yong Xu
   venue: Journal of biophotonics, 2019
   number_link: 2
   link1:
