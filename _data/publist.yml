@@ -1,12 +1,23 @@
 
 
+- title: Heterogeneous Hypergraph Variational Autoencoder for Link Prediction
+  image: HeteHGVAE_teaser.png
+  description: 
+  authors: Haoyi Fan, Fengbin Zhang, Yuxuan Wei, Zuoyong Li, Changqing Zou, Yue Gao, Qionghai Dai
+  venue: IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
+  number_link: 1
+  link1:
+    url: https://ieeexplore.ieee.org/document/9354594
+    display: paper
+
+
 
 
 - title: Semi-Supervised Semantic Segmentation via Entropy Minimization
   image: FGMR_teaser.png
   description: 
   authors: Jiawei Wu, Haoyi Fan, Xiaoqing Zhang, Shouying Lin, Zuoyong Li
-  venue: ICME 2021
+  venue: IEEE International Conference on Multimedia and Expo (ICME), 2021
   number_link: 1
   link1:
     url: https://haoyfan.github.io/papers/FGMR_ICME2021.pdf 
@@ -17,7 +28,7 @@
   image: SemiTime_teaser.jpg
   description: 
   authors: Haoyi Fan, Fengbin Zhang, Ruidong Wang, Xunhua Huang, Zuoyong Li
-  venue: ICASSP 2021
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021
   number_link: 2
   link1:
     url: https://haoyfan.github.io/papers/SemiTime_ICASSP2021.pdf 
