@@ -3,7 +3,7 @@
 - title: Heterogeneous Hypergraph Variational Autoencoder for Link Prediction
   image: HeteHGVAE_teaser.png
   description: 
-  authors: \<strong>Haoyi Fan</strong>, Fengbin Zhang, Yuxuan Wei, Zuoyong Li, Changqing Zou, Yue Gao, Qionghai Dai
+  authors: <strong>Haoyi Fan</strong>, Fengbin Zhang, Yuxuan Wei, Zuoyong Li, Changqing Zou, Yue Gao, Qionghai Dai
   venue: IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
   number_link: 1
   link1:
@@ -27,7 +27,7 @@
 - title: Semi-supervised Time Series Classification by Temporal Relation Prediction
   image: SemiTime_teaser.jpg
   description: 
-  authors: \<strong>Haoyi Fan</strong>, Fengbin Zhang, Ruidong Wang, Xunhua Huang, Zuoyong Li
+  authors: <strong>Haoyi Fan</strong>, Fengbin Zhang, Ruidong Wang, Xunhua Huang, Zuoyong Li
   venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021
   number_link: 2
   link1:
@@ -68,7 +68,7 @@
 - title: Self-Supervised Time Series Representation Learning by Inter-Intra Relational Reasoning
   image: SelfTime_teaser.jpg
   description: 
-  authors: \<strong>Haoyi Fan</strong>, Fengbin Zhang, Yue Gao
+  authors: <strong>Haoyi Fan</strong>, Fengbin Zhang, Yue Gao
   venue: ICLR 2021 (under review)
   number_link: 2
   link1:
@@ -92,7 +92,7 @@
 - title: Correlation-aware Deep Generative Model for Unsupervised Anomaly Detection
   image: CADGMM_teaser.jpg
   description: 
-  authors: \<strong>Haoyi Fan</strong>, Fengbin Zhang, R. Wang, Liang Xi, Zuoyong Li
+  authors: <strong>Haoyi Fan</strong>, Fengbin Zhang, R. Wang, Liang Xi, Zuoyong Li
   venue: The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD'20, (acceptance rate&#58; 21%)
   number_link: 5
   link1:
@@ -114,7 +114,7 @@
 - title: AnomalyDAE&#58; Dual autoencoder for anomaly detection on attributed networks
   image: AnomalyDAE_teaser.jpg
   description: 
-  authors: \<strong>Haoyi Fan</strong>, Fengbin Zhang, Zuoyong Li
+  authors: <strong>Haoyi Fan</strong>, Fengbin Zhang, Zuoyong Li
   venue: 45th International Conference on Acoustics, Speech, and Signal Processing, ICASSP'20
   number_link: 5
   link1:
