@@ -3,7 +3,7 @@
 - title: Heterogeneous Hypergraph Variational Autoencoder for Link Prediction
   image: HeteHGVAE_teaser.png
   description: 
-  authors: <strong>Haoyi Fan</strong>, Fengbin Zhang, Yuxuan Wei, Zuoyong Li, Changqing Zou, Yue Gao, Qionghai Dai
+  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang, Yuxuan Wei, Zuoyong Li, Changqing Zou, Yue Gao, Qionghai Dai
   venue: IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
   number_link: 1
   link1:
@@ -16,7 +16,7 @@
 - title: Semi-Supervised Semantic Segmentation via Entropy Minimization
   image: FGMR_teaser.png
   description: 
-  authors: Jiawei Wu, <strong>Haoyi Fan</strong>, Xiaoqing Zhang, Shouying Lin, Zuoyong Li
+  authors: Jiawei Wu, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Xiaoqing Zhang, Shouying Lin, Zuoyong Li
   venue: IEEE International Conference on Multimedia and Expo (ICME), 2021
   number_link: 1
   link1:
@@ -29,7 +29,7 @@
   description: 
   authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang, Ruidong Wang, Xunhua Huang, Zuoyong Li
   venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021
-  number_link: 4
+  number_link: 5
   link1:
     url: https://ieeexplore.ieee.org/document/9413883
     display: paper
@@ -51,7 +51,7 @@
 - title: WBC-Net&#58; A white blood cell segmentation network based on UNet++ and ResNet
   image: WBCNet_teaser.jpg
   description: 
-  authors: Yan Lu, Xuejun Qin, <strong>Haoyi Fan</strong>, Taotao Lai, Zuoyong Li
+  authors: Yan Lu, Xuejun Qin, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Taotao Lai, Zuoyong Li
   venue: Applied Soft Computing, 2020
   number_link: 1
   link1:
@@ -64,7 +64,7 @@
 - title: URNet&#58; A U-Net based residual network for image dehazing
   image: URNet_teaser.jpg
   description: 
-  authors: TingFeng, ChuanshengWang, Xinwei Chen, <strong>Haoyi Fan</strong>, Kun Zeng, Zuoyong Li
+  authors: TingFeng, ChuanshengWang, Xinwei Chen, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Kun Zeng, Zuoyong Li
   venue: Applied Soft Computing, 2020
   number_link: 1
   link1:
@@ -77,7 +77,7 @@
 - title: Self-Supervised Time Series Representation Learning by Inter-Intra Relational Reasoning
   image: SelfTime_teaser.jpg
   description: 
-  authors: <strong>Haoyi Fan</strong>, Fengbin Zhang, Yue Gao
+  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang, Yue Gao
   venue: ICLR 2021 (under review)
   number_link: 2
   link1:
@@ -91,7 +91,7 @@
 - title: Reconstruction Enhanced Probabilistic Model for Semi-supervised Tongue Image Segmentation
   image: SemiTongue_teaser.jpg
   description: 
-  authors: Changen Zhou,  <strong>Haoyi Fan</strong>,  Wen Zhao,  Hongben Xu,  Huangwei Lei,  Zhaoyang Yang,  Zuoyong Li,  Candong Li
+  authors: Changen Zhou,  <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>,  Wen Zhao,  Hongben Xu,  Huangwei Lei,  Zhaoyang Yang,  Zuoyong Li,  Candong Li
   venue: Concurrency and Computation&#58; Practice and Experience, 2020
   number_link: 1
   link1:
@@ -101,7 +101,7 @@
 - title: Correlation-aware Deep Generative Model for Unsupervised Anomaly Detection
   image: CADGMM_teaser.jpg
   description: 
-  authors: <strong>Haoyi Fan</strong>, Fengbin Zhang, R. Wang, Liang Xi, Zuoyong Li
+  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang, R. Wang, Liang Xi, Zuoyong Li
   venue: The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD'20, (acceptance rate&#58; 21%)
   number_link: 5
   link1:
@@ -123,7 +123,7 @@
 - title: AnomalyDAE&#58; Dual autoencoder for anomaly detection on attributed networks
   image: AnomalyDAE_teaser.jpg
   description: 
-  authors: <strong>Haoyi Fan</strong>, Fengbin Zhang, Zuoyong Li
+  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang, Zuoyong Li
   venue: 45th International Conference on Acoustics, Speech, and Signal Processing, ICASSP'20
   number_link: 5
   link1:
@@ -145,7 +145,7 @@
 - title: Deep Residual Haze Network for Image Dehazing and Deraining
   image: DRHNet_teaser.jpg
   description: 
-  authors: Chuansheng Wang, Zuoyong Li, Jiawei Wu, <strong>Haoyi Fan</strong>, Guobao Xiao, Hong Zhang
+  authors: Chuansheng Wang, Zuoyong Li, Jiawei Wu, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Guobao Xiao, Hong Zhang
   venue: IEEE Access, 2020
   number_link: 2
   link1:
@@ -158,7 +158,7 @@
 - title: Tonguenet&#58; Accurate Localization and Segmentation for Tongue Images Using Deep Neural Networks
   image: Tonguenet_teaser.jpg
   description: 
-  authors: Changen Zhou, <strong>Haoyi Fan</strong>, Zuoyong Li
+  authors: Changen Zhou, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Zuoyong Li
   venue: IEEE Access, 2019
   number_link: 1
   link1:
@@ -169,7 +169,7 @@
 - title:  LeukocyteMask&#58; An automated localization and segmentation method for leukocyte in blood smear images using deep neural networks
   image: LeukocyteMask_teaser.jpg
   description: 
-  authors: <strong>Haoyi Fan</strong>, Fengbin Zhang, Liang Xi, Zuoyong Li, Guanghai Liu, Yong Xu
+  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang, Liang Xi, Zuoyong Li, Guanghai Liu, Yong Xu
   venue: Journal of biophotonics, 2019
   number_link: 2
   link1:
