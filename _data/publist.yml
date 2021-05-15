@@ -27,19 +27,22 @@
 - title: Semi-supervised Time Series Classification by Temporal Relation Prediction
   image: SemiTime_teaser.jpg
   description: 
-  authors: <strong>Haoyi Fan</strong>, Fengbin Zhang, Ruidong Wang, Xunhua Huang, Zuoyong Li
+  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang, Ruidong Wang, Xunhua Huang, Zuoyong Li
   venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021
   number_link: 4
   link1:
+    url: https://ieeexplore.ieee.org/document/9413883
+    display: paper
+  link2:
     url: https://haoyfan.github.io/papers/SemiTime_ICASSP2021.pdf 
     display: pdf
-  link2:
+  link3:
     url: https://haoyfan.github.io/slide/icassp21-SemiTime-slides.pdf
     display: slide
-  link3:
+  link4:
     url: https://haoyfan.github.io/slide/icassp21-SemiTime-poster.pdf
     display: poster
-  link4:
+  link5:
     url: https://github.com/haoyfan/SemiTime
     display: code
 
