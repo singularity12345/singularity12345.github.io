@@ -29,11 +29,17 @@
   description: 
   authors: <strong>Haoyi Fan</strong>, Fengbin Zhang, Ruidong Wang, Xunhua Huang, Zuoyong Li
   venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021
-  number_link: 2
+  number_link: 4
   link1:
     url: https://haoyfan.github.io/papers/SemiTime_ICASSP2021.pdf 
     display: pdf
   link2:
+    url: https://haoyfan.github.io/slide/icassp-SemiTime-slides.pdf
+    display: slide
+  link3:
+    url: https://haoyfan.github.io/slide/icassp-SemiTime-poster.pdf
+    display: poster
+  link4:
     url: https://github.com/haoyfan/SemiTime
     display: code
 
