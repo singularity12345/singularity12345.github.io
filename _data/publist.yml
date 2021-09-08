@@ -21,7 +21,9 @@
   link1:
     url: https://ieeexplore.ieee.org/document/9354594
     display: paper
-
+  link2:
+    url: https://github.com/haoyfan/HeteHG-VAE
+    display: code
 
 
 
