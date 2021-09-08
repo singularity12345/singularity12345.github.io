@@ -1,4 +1,16 @@
 
+- title: Deep Dual Support Vector Data Description for Anomaly Detection on Attributed Networks
+  image: DualSVDAE_teaser.jpg
+  description: 
+  authors: Fengbin Zhang, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Ruidong Wang, Zuoyong Li, Tiancai Liang
+  venue: International Journal of Intelligent Systems, 2021
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2109.00138
+    display: arxiv
+  link2:
+    url: https://github.com/haoyfan/Dual-SVDAE
+    display: code
 
 - title: Heterogeneous Hypergraph Variational Autoencoder for Link Prediction
   image: HeteHGVAE_teaser.png
