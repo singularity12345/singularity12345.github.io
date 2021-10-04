@@ -1,4 +1,7 @@
 # encoding: utf-8
+- date: October, 2021
+  headline: Source code release at <a href="https://github.com/haoyfan/Dual-SVDAE"> github </a> for our work of "Deep Dual Support Vector Data Description for Anomaly Detection on Attributed Networks".
+
 - date: August, 2021
   headline: Paper on "Deep Dual Support Vector Data Description for Anomaly Detection on Attributed Networks" is accepted for publication in <a href="https://onlinelibrary.wiley.com/journal/1098111x"> International Journal of Intelligent Systems. </a>.
 
