@@ -12,7 +12,7 @@ permalink: /
 
 <div class="col-sm-8">
 
-Greetings, I am now an associate research fellow at the School of Information Engineering, Zhengzhou University. I received my Ph.D. degree in Computer Science at [HRBUST](http://www.hrbust.edu.cn/) in Harbin, China, under the supervision of Prof. Fengbin Zhang. Moreover, I was also co-supervised by Prof. [Yue Gao](http://www.gaoyue.org/cn/people/gaoyue_index.html) and Prof. Zuoyong Li for scientific research during my doctoral research stage.
+Greetings, I am now an associate research fellow at the School of Information Engineering, [Zhengzhou University](http://xg.zzu.edu.cn/index.jhtml). I received my Ph.D. degree in Computer Science at [HRBUST](http://www.hrbust.edu.cn/) in Harbin, China, under the supervision of Prof. Fengbin Zhang. Moreover, I was also co-supervised by Prof. [Yue Gao](http://www.gaoyue.org/cn/people/gaoyue_index.html) and Prof. Zuoyong Li for scientific research during my doctoral research stage.
 
 <h4>Research Interests </h4>
 
