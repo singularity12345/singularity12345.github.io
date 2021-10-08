@@ -55,9 +55,9 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
   <A HREF="mailto:&#105;&#115;&#102;&#97;&#110;&#104;&#121;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
   &#105;&#115;&#102;&#97;&#110;&#104;&#121;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
   </A> <br>
-  HRBUST <br>
-  No.52, Xuefu Road<br>
-  Harbin, China.<br>
+  Zhengzhou University <br>
+  100 Kexue Ave<br>
+  Zhengzhou, China.<br>
 
 
 </div>
