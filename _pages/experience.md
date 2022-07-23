@@ -1,7 +1,7 @@
 ---
-title: "Haoyi Fan - Experience"
+title: "Liang Xi - Experience"
 layout: gridlay
-excerpt: "Haoyi Fan: Experience"
+excerpt: "Liang Xi: Experience"
 sitemap: false
 permalink: /experience
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Haoyi Fan - Publications"
+title: "Liang Xi - Publications"
 layout: gridlay
-excerpt: "Haoyi Fan -- Publications."
+excerpt: "Liang Xi -- Publications."
 sitemap: false
 permalink: /publications/
 ---

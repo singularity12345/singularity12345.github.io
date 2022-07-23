@@ -1,7 +1,7 @@
 ---
-title: "Haoyi Fan - Home"
+title: "Liang Xi - Home"
 layout: gridlay
-excerpt: "Haoyi Fan"
+excerpt: "Liang Xi"
 sitemap: false
 permalink: /
 ---

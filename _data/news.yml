@@ -1,70 +1,11 @@
 # encoding: utf-8
-- date: October, 2021
-  headline: Source code release at <a href="https://github.com/haoyfan/Dual-SVDAE"> github </a> for our work of "Deep Dual Support Vector Data Description for Anomaly Detection on Attributed Networks".
+- date: July, 2022
+  headline: Join us at the <a href="https://5gwn.eai-conferences.org/2022/">5th EAI International Conference on 6G for Future Wireless Networks </a> in December(Full Paper Submission deadline:Sep. 1, 2022)!
+  
+#   Join us at the <a href="https://5gwn.eai-conferences.org/2022/"> 5th EAI International Conference on 6G for Future Wireless Networks </a> in December(Full Paper Submission deadline: Sep. 1, 2022)!
 
-- date: August, 2021
-  headline: Paper on "Deep Dual Support Vector Data Description for Anomaly Detection on Attributed Networks" is accepted for publication in <a href="https://onlinelibrary.wiley.com/journal/1098111x"> International Journal of Intelligent Systems. </a>.
+# - date: August, 2021
+#   headline: Paper on "Deep Dual Support Vector Data Description for Anomaly Detection on Attributed Networks" is accepted for publication in <a href="https://onlinelibrary.wiley.com/journal/1098111x"> International Journal of Intelligent Systems. </a>.
 
-- date: July, 2021
-  headline: Join us virtually at [ICME 2021](https://2021.ieeeicme.org/) in July!
-
-- date: May, 2021
-  headline: Paper on "基于多模态对抗学习的无监督时间序列异常检测模型" is accepted for publication in <a href="https://crad.ict.ac.cn/CN/1000-1239/home.shtml"> 《计算机研究与发展》 </a>.
-
-- date: May, 2021
-  headline: Join me virtually at [ICASSP 2021](https://l.feathr.co/ICASSP/Haoyi-Fan) in June!
-
-- date: March, 2021
-  headline: Paper on "Semi-supervised Semantic Segmentation via Entropy Minimization" is accepted for presentation (Oral) at <a href="https://2021.ieeeicme.org/"> ICME'21 </a>.
-
-- date: February, 2021
-  headline: Paper on "Heterogeneous Hypergraph Variational Autoencoder for Link Prediction" is accepted for publication in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34"> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) </a>.
-
-- date: January, 2021
-  headline: Paper on "Semi-supervised Time Series Classification by Temporal Relation Prediction" is accepted for presentation at <a href="https://2021.ieeeicassp.org"> ICASSP'21 </a>.
-
-- date: January, 2021
-  headline: Paper on "WBC-Net&#58; A white blood cell segmentation network based on UNet++ and ResNet" is accepted for publication in <a href="https://www.journals.elsevier.com/applied-soft-computing"> Applied Soft Computing Journal </a>.
-
-- date: November, 2020
-  headline: Paper on "URNet&#58; A U-Net based residual network for image dehazing" is accepted for publication in <a href="https://www.journals.elsevier.com/applied-soft-computing"> Applied Soft Computing Journal </a>.
-
-- date: October, 2020
-  headline: New work about semi-supervised time series classification is submitted to <a href="https://2021.ieeeicassp.org/"> ICASSP | 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP'21) </a> for review.
-
-- date: October, 2020
-  headline: New work about self-supervised time series representation learning is submitted to <a href="https://iclr.cc/Conferences/2021"> ICLR | 2021 Ninth International Conference on Learning Representations (ICLR'21) </a> for review.
-
-- date: September, 2020
-  headline: Joined as a Program Commitee Member for <a href="https://aaai.org/Conferences/AAAI-21/"> Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21) </a>.
-
-- date: August, 2020
-  headline: Paper on "基于样本关联感知的无监督深度异常检测模型" is accepted for publication in <a href="http://cjc.ict.ac.cn/"> 《计算机学报》 </a>.
-
-- date: May, 2020
-  headline: Paper on "Reconstruction Enhanced Probabilistic Model for Semi-supervised Tongue Image Segmentation" is accepted for publication in <a href="https://onlinelibrary.wiley.com/journal/15320634"> Concurrency and Computation&#58; Practice and Experience </a>.
-
-- date: January, 2020
-  headline: Paper on "Correlation-aware Deep Generative Model for Unsupervised Anomaly Detection" is accepted as an oral presentation to <a href="https://pakdd2020.org/"> PAKDD'20 </a>. (Acceptance rate&#58; 21%)
-
-- date: January, 2020
-  headline: Paper on "AnomalyDAE&#58; Dual autoencoder for anomaly detection on attributed networks" is accepted as a poster presentation to <a href="https://2020.ieeeicassp.org/"> ICASSP'20 </a>.
-
-- date: January, 2020
-  headline: Paper on "Deep residual haze network for image dehazing and deraining" is accepted for publication in <a href="https://ieeeaccess.ieee.org/"> IEEE Access </a>.
-
-- date: October, 2019
-  headline: National Award for Distinguished Doctorates.
-
-- date: September, 2019
-  headline: Paper on "TongueNet&#58; Accurate Localization and Segmentation for Tongue Images using Deep Neural Networks" is accepted for publication in <a href="https://ieeeaccess.ieee.org/"> IEEE Access </a>. 
-
-- date: February, 2019
-  headline: Paper on "LeukocyteMask&#58; An automated localization and segmentation method for leukocyte in blood smear images using deep neural networks" is accepted for publication in <a href="https://onlinelibrary.wiley.com/journal/18640648"> Journal of Biophotonics </a>. 
-
-- date: August, 2018
-  headline: Joined as a visited student in <a href="http://www.gaoyue.org/cn/index"> iMoon Lab </a> at Tsinghua University.
-
-
-
+#   headline: 
   # </b><img src='/images/newspic/NewsNP.png' class='img-responsive' style='max-width: 192px' /> "

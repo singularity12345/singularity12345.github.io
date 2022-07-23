@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: gridlay
-excerpt: "Haoyi Fan"
+excerpt: "Liang Xi"
 sitemap: false
 permalink: /allnews.html
 ---

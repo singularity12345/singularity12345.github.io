@@ -1,196 +1,106 @@
 
-- title: Deep Dual Support Vector Data Description for Anomaly Detection on Attributed Networks
-  image: DualSVDAE_teaser.jpg
+- title: Data-correlation-aware unsupervised deep-learning model for anomaly detection in cyber-physical systems
+  image: DataCorrAware.png
   description: 
-  authors: Fengbin Zhang, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Ruidong Wang, Zuoyong Li, Tiancai Liang
-  venue: International Journal of Intelligent Systems, 2021
-  number_link: 2
-  link1:
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22683
-    display: paper
-  link2:
-    url: https://github.com/haoyfan/Dual-SVDAE
-    display: code
-
-- title: Heterogeneous Hypergraph Variational Autoencoder for Link Prediction
-  image: HeteHGVAE_teaser.png
-  description: 
-  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang, Yuxuan Wei, Zuoyong Li, Changqing Zou, Yue Gao, Qionghai Dai
-  venue: IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
-  number_link: 2
-  link1:
-    url: https://ieeexplore.ieee.org/document/9354594
-    display: paper
-  link2:
-    url: https://github.com/haoyfan/HeteHG-VAE
-    display: code
-
-
-- title: Semi-Supervised Semantic Segmentation via Entropy Minimization
-  image: FGMR_teaser.png
-  description: 
-  authors: Jiawei Wu, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Xiaoqing Zhang, Shouying Lin, Zuoyong Li
-  venue: IEEE International Conference on Multimedia and Expo (ICME), 2021
+  authors: <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Ruidong Wang, Zygmunt J. Haas
+  venue: IEEE Internet of Things Journal, 2022
   number_link: 1
   link1:
-    url: https://haoyfan.github.io/papers/FGMR_ICME2021.pdf 
-    display: pdf
+    url: https://ieeexplore.ieee.org/document/9708436
+    display: paper
+
+
+- title: Sample-correlation-aware unsupervised deep anomaly detection model (基于样本关联感知的无监督深度异常检测模型)
+  image: SampleCorrAware.png
+  description: 
+  authors: <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Ruidong Wang, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>,Fengbin Zhang
+  venue: Chinese Journal of Computers (计算机学报), 2021
+  number_link: 1
+  link1:
+    url: http://cjc.ict.ac.cn/qwjs/view.asp?id=5556
+    display: paper
+
+
+
+- title: Multi-source-inspired immune detector generation and detection in neighborhood shape-space (邻域形态空间多源免疫检测器生成与检测)
+  image: MulSouInspired.png
+  description: 
+  authors: Jiawei Wu, <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Zhiyu Yao, Fengbin Zhang
+  venue: Journal of Software (软件学报), 2021
+  number_link: 1
+  link1:
+    url: http://www.jos.org.cn/jos/article/abstract/6017?st=search  
+    display: paper
   
 
-- title: Semi-supervised Time Series Classification by Temporal Relation Prediction
-  image: SemiTime_teaser.jpg
+- title: Deep adversarial learning latent representation distribution model for anomaly detection (基于深度对抗学习潜在表示分布的异常检测模型)
+  image: DeepAdLearning.png
   description: 
-  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang, Ruidong Wang, Xunhua Huang, Zuoyong Li
-  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021
-  number_link: 5
-  link1:
-    url: https://ieeexplore.ieee.org/document/9413883
-    display: paper
-  link2:
-    url: https://haoyfan.github.io/papers/SemiTime_ICASSP2021.pdf 
-    display: pdf
-  link3:
-    url: https://haoyfan.github.io/slide/icassp21-SemiTime-slides.pdf
-    display: slide
-  link4:
-    url: https://haoyfan.github.io/slide/icassp21-SemiTime-poster.pdf
-    display: poster
-  link5:
-    url: https://github.com/haoyfan/SemiTime
-    display: code
-
-
-
-- title: WBC-Net&#58; A white blood cell segmentation network based on UNet++ and ResNet
-  image: WBCNet_teaser.jpg
-  description: 
-  authors: Yan Lu, Xuejun Qin, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Taotao Lai, Zuoyong Li
-  venue: Applied Soft Computing, 2020
+  authors: <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Han Liu, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang
+  venue: Acta Electronica Sinica (电子学报)
   number_link: 1
   link1:
-    url: https://www.sciencedirect.com/science/article/pii/S1568494620309455
+    url: https://www.ejournal.org.cn/CN/10.12263/DZXB.20200970
     display: paper
 
 
 
 
-- title: URNet&#58; A U-Net based residual network for image dehazing
-  image: URNet_teaser.jpg
+- title: Multisource neighborhood immune detector adaptive model for anomaly detection
+  image: MulNeiImmune.png
   description: 
-  authors: TingFeng, ChuanshengWang, Xinwei Chen, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Kun Zeng, Zuoyong Li
-  venue: Applied Soft Computing, 2020
+  authors: <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Zhiyu Yao, Fengbin Zhang
+  venue: IEEE Transactions on Evolutionary Computation, 2021
   number_link: 1
   link1:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S156849462030822X
+    url: https://ieeexplore.ieee.org/document/9352964
     display: paper
 
 
 
 
-- title: Self-Supervised Time Series Representation Learning by Inter-Intra Relational Reasoning
-  image: SelfTime_teaser.jpg
+- title: An adaptive artificial-fish-swarm-inspired fuzzy C-means algorithm
+  image: None
   description: 
-  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang, Yue Gao
-  venue: ICLR 2021 (under review)
-  number_link: 2
-  link1:
-    url: https://arxiv.org/abs/2011.13548
-    display: arxiv
-  link2:
-    url: https://github.com/haoyfan/SelfTime
-    display: code
-
-
-- title: Reconstruction Enhanced Probabilistic Model for Semi-supervised Tongue Image Segmentation
-  image: SemiTongue_teaser.jpg
-  description: 
-  authors: Changen Zhou,  <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>,  Wen Zhao,  Hongben Xu,  Huangwei Lei,  Zhaoyang Yang,  Zuoyong Li,  Candong Li
-  venue: Concurrency and Computation&#58; Practice and Experience, 2020
+  authors: <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Fengbin Zhang
+  venue: Neural Computing and Applications, 2020
   number_link: 1
   link1:
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5844
+    url: https://link.springer.com/article/10.1007/s00521-018-03977-x
     display: paper
+
+
+
+
+- title: CC-CSA:A culture&chaos-inspired clonal selection algorithm for abnormal detection
+  image: None
+  description: 
+  authors: <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Ruidong Wang, Fengbin Zhang, Yuezhongyi Sun
+  venue: Journal of Intelligent & Fuzzy Systems, 2020
+  number_link: 1
+  link1:
+    url: https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs192188
+    display: paper
+
 
 - title: Correlation-aware Deep Generative Model for Unsupervised Anomaly Detection
-  image: CADGMM_teaser.jpg
+  image: CorrAwareDeepGener.png
   description: 
-  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang, R. Wang, Liang Xi, Zuoyong Li
-  venue: The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD'20, (acceptance rate&#58; 21%)
-  number_link: 5
-  link1:
-    url: https://haoyfan.github.io/papers/CADGMM_PAKDD2020.pdf 
-    display: pdf
-  link2:
-    url: https://www.springerprofessional.de/en/correlation-aware-deep-generative-model-for-unsupervised-anomaly/17966082
-    display: paper
-  link3:
-    url: https://haoyfan.github.io/slide/pakdd20-CADGMM-slides.pdf
-    display: slide
-  link4:
-    url: https://haoyfan.github.io/video/pakdd20-CADGMM-video.mp4
-    display: video
-  link5:
-    url: https://github.com/haoyfan/CADGMM
-    display: code
-
-- title: AnomalyDAE&#58; Dual autoencoder for anomaly detection on attributed networks
-  image: AnomalyDAE_teaser.jpg
-  description: 
-  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang, Zuoyong Li
-  venue: 45th International Conference on Acoustics, Speech, and Signal Processing, ICASSP'20
-  number_link: 5
-  link1:
-    url: https://haoyfan.github.io/papers/AnomalyDAE_ICASSP2020.pdf 
-    display: pdf
-  link2:
-    url: https://ieeexplore.ieee.org/document/9053387 
-    display: paper
-  link3:
-    url: https://haoyfan.github.io/slide/icassp20-AnomalyDAE-slides.pdf
-    display: slide
-  link4:
-    url: https://haoyfan.github.io/video/icassp20-AnomalyDAE-video.mp4
-    display: video
-  link5:
-    url: https://github.com/haoyfan/AnomalyDAE
-    display: code
-
-- title: Deep Residual Haze Network for Image Dehazing and Deraining
-  image: DRHNet_teaser.jpg
-  description: 
-  authors: Chuansheng Wang, Zuoyong Li, Jiawei Wu, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Guobao Xiao, Hong Zhang
-  venue: IEEE Access, 2020
-  number_link: 2
-  link1:
-    url: https://ieeexplore.ieee.org/abstract/document/8957649/
-    display: paper
-  link2:
-    url: https://github.com/fpklipic/DRHNet
-    display: code
-
-- title: Tonguenet&#58; Accurate Localization and Segmentation for Tongue Images Using Deep Neural Networks
-  image: Tonguenet_teaser.jpg
-  description: 
-  authors: Changen Zhou, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Zuoyong Li
-  venue: IEEE Access, 2019
+  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>,  Fengbin Zhang, Ruidong Wang,<strong>[Liang Xi](https://liangxi.github.io/)</strong>, Zuoyong Li
+  venue: The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD2020 (acceptance rate:21%)
   number_link: 1
   link1:
-    url: https://ieeexplore.ieee.org/abstract/document/8864990/
+    url: https://www.springerprofessional.de/en/correlation-aware-deep-generative-model-for-unsupervised-anomaly/17966082
     display: paper
 
 
-- title:  LeukocyteMask&#58; An automated localization and segmentation method for leukocyte in blood smear images using deep neural networks
-  image: LeukocyteMask_teaser.jpg
+- title: Anomaly detection algorithm based on FCM with adaptive artificial fish-swarm (基于自适应人工鱼群FCM的异常检测算法)
+  image: None
   description: 
-  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang, Liang Xi, Zuoyong Li, Guanghai Liu, Yong Xu
-  venue: Journal of biophotonics, 2019
-  number_link: 2
+  authors: <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Yong Wang, Fengbin Zhang
+  venue: Journal of Computer Research and Development (计算机研究与发展), 2019
+  number_link: 1
   link1:
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.201800488
+    url: https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2019.20180099
     display: paper
-  link2:
-    url: https://github.com/fpklipic/BCISC
-    display: dataset
-
-
 
