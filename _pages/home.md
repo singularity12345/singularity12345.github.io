@@ -12,21 +12,20 @@ permalink: /
 
 <div class="col-sm-8">
 
-Greetings, I am now an associate research fellow at the School of Information Engineering, [Zhengzhou University](http://xg.zzu.edu.cn/index.jhtml). I received my Ph.D. degree in Computer Science at [HRBUST](http://www.hrbust.edu.cn/) in Harbin, China, under the supervision of Prof. Fengbin Zhang. Moreover, I was also co-supervised by Prof. [Yue Gao](http://www.gaoyue.org/cn/people/gaoyue_index.html) and Prof. Zuoyong Li for scientific research during my doctoral research stage.
+
+I am now an associate professor at the School of Computer Science and Technology, Harbin University of Science and Technology. I received my Ph.D. degree in Computer Applied Technology from the Harbin University of Science and Technology, Harbin, China, in 2012. I was also affiliated with the University of Texas at Dallas as a visiting scholar during Nov. 2019--Nov. 2020. I was a recipient of the National Science Foundations of China in 2012, the Natural Science Foundation of Heilongjiang Province in 2018, the Innovative Talents project of Common University in Heilongjiang Province in 2015, etc.
 
 <h4>Research Interests </h4>
 
-<h5> Data mining and machine learning </h5>
-<ul>
-<li>Time Series Modeling.</li>
-<li>Anomaly Detection.</li>
-<li>Graph Embedding.</li>
-</ul>
-<h5> Computer Vision </h5>
-<ul>
-<li>Medical Image Processing.</li>
-</ul>
+<h5> Artificial Intelligence </h5>
+<h5> Machine Learning </h5>
+<h5> Data Mining </h5>
+<h5> Network Security </h5>
+<h5> Anomaly Detection </h5>
+<h5> Internet of Things </h5>
 
+<h5> Cyber-Physical Systems (CPS) </h5>
+<h5> Biologically-inspired Systems </h5>
 <!--
 My work lies at the intersection of Computer Vision and Machine Learning. Specifically, I am working on leveraging machine learning techniques for better inference in computer vision models. The main research question is how to make use of learning techniques such as deep neural networks and random forests for inference in structured prediction frameworks.
 -->
@@ -55,9 +54,9 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
   <A HREF="mailto:&#105;&#115;&#102;&#97;&#110;&#104;&#121;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
   &#105;&#115;&#102;&#97;&#110;&#104;&#121;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
   </A> <br>
-  Zhengzhou University <br>
-  100 Kexue Ave<br>
-  Zhengzhou, China.<br>
+  Harbin University of Science and Technology <br>
+  52 Xuefu Road<br>
+  Harbin, China.<br>
 
 
 </div>
